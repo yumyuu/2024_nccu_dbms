@@ -1,4 +1,4 @@
-##### Paper Helper 閱讀論文的好幫手
+# Paper Helper 閱讀論文的好幫手
 
 * 1. 幫助學生快速統整論文摘要。
 
@@ -25,7 +25,7 @@
 
 ---
 
-## **Report**
+## **Report**s
 
 [Report Link](https://github.com/yumyuu/2024_nccu_dbms/tree/main/report/Project_Report.pdf)
 
