@@ -27,7 +27,7 @@
 
 **Report**
 
-![error](https://github.com/yumyuu/2024_nccu_dbms/tree/main/report/Project_Report.pdf)
+[Report Link](https://github.com/yumyuu/2024_nccu_dbms/tree/main/report/Project_Report.pdf)
 
 ---
 
