@@ -23,6 +23,9 @@
 **系統架構**
 ![image error](https://github.com/yumyuu/2024_nccu_dbms/blob/main/img/system_arc.png)
 
+**Report**
+[Report Link](https://https://github.com/yumyuu/2024_nccu_dbms/blob/main/report/Report.pdf)
+
 ---
 
 pip install -r requirements.txt
