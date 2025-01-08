@@ -1,4 +1,4 @@
-### Paper Helper 閱讀論文的好幫手
+##### Paper Helper 閱讀論文的好幫手
 
 * 1. 幫助學生快速統整論文摘要。
 
@@ -10,22 +10,22 @@
 
 ---
 
-**ER Model**
+## **ER Model**
 ![image error](https://github.com/yumyuu/2024_nccu_dbms/blob/main/img/ER.drawio.png)
 
 ---
 
-**Relational Schema**
+## **Relational Schema**
 ![image error](https://github.com/yumyuu/2024_nccu_dbms/blob/main/img/Relation.png)
 
 ---
 
-**系統架構**
+## **系統架構**
 ![image error](https://github.com/yumyuu/2024_nccu_dbms/blob/main/img/system_arc.png)
 
 ---
 
-**Report**
+## **Report**
 
 [Report Link](https://github.com/yumyuu/2024_nccu_dbms/tree/main/report/Project_Report.pdf)
 
