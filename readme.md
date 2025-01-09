@@ -10,6 +10,7 @@ Paper Helper 是一個幫助學生輕鬆理解與報告學術論文的工具，�
 ## **線上 Demo**
 
 👉 [Demo Link](https://g11.papperhelper.xyz/)  
+
 **登入頁面：**  
 可以使用以下帳號登錄：  
 - 帳號：`yumyuu`  
@@ -34,17 +35,15 @@ Paper Helper 是一個幫助學生輕鬆理解與報告學術論文的工具，�
 ---
 
 ## **Report**
-**[Report Link](https://github.com/yumyuu/2024_nccu_dbms/tree/main/report/Project_Report.pdf)
+**[Report Link](https://github.com/yumyuu/2024_nccu_dbms/tree/main/report/Project_Report.pdf)**
 
 ---
 
 # **Paper Helper 本地 Demo 使用說明**
 
----
-
 ## **1. 環境準備**
 
-### **在目錄 `\code\papper_helper` 中執行以下命令：**
+#### **在目錄 `\code\papper_helper` 中執行以下命令：**
 
 1. 安裝 Python 依賴：
    ```bash
